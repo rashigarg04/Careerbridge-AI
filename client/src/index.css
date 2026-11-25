@@ -1,0 +1,5 @@
+/* Temporary global styles. Tailwind CSS replaces this in Phase 2. */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
